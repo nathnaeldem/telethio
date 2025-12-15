@@ -21,6 +21,9 @@
   "engines": {
     "node": ">=18.0.0"
   },
+  "repository": { "type": "git", "url": "https://github.com/nathnaeldem/telethio.git" },
+  "homepage": "https://github.com/nathnaeldem/telethio#readme",
+  "bugs": { "url": "https://github.com/nathnaeldem/telethio/issues" },
   "keywords": [
     "telegram",
     "telegram-bot-api",
